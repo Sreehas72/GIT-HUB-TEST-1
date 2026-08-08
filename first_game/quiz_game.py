@@ -41,6 +41,11 @@ QUESTIONS = {
             "options": ["HTML", "CSS", "Python", "HTTP"],
             "answer": 3,
         },
+        {
+            "question": "What does RAM stand for?",
+            "options": ["Random Access Memory", "Read All Memory", "Right Access Module", "Rapid Application Memory"],
+            "answer": 1,
+        },
     ],
     "medium": [
         {
